@@ -18,7 +18,7 @@ const Home = () => {
             />
           </div>
           <div className="col-lg-6 hero1">
-            <h1 className="display-5 fw-bold lh-1 mb-3 ">
+            <h1 className="display-5 fw-bold lh-2 mb-3 ">
               Cryptocurrency <br /> price Tracker
             </h1>
             <p className="lead">
